@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Java SQl**
 
-- 👨‍💻 All of my projects are available at [https://prachita789.github.io/](https://prachita789.github.io/)
-
 - 💬 Ask me about **Html CSS Javascript**
 
 - 📫 How to reach me **prachitagajbhiye97@gmail.com**
