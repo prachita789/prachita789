@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prachitagajbhiye97@gmail.com**
 
-- 📄 Know about me <a href = "https://drive.google.com/file/d/1kOWSbmHXBrS0AuyqJT18mPqOyZZHxx0L/view?usp=sharing" target="_blank"> My Resume</a>
+<!-- - 📄 Know about me <a href = "https://drive.google.com/file/d/1kOWSbmHXBrS0AuyqJT18mPqOyZZHxx0L/view?usp=sharing" target="_blank"> My Resume</a> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
