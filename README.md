@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java MySQL**
 
-- 👨‍💻 All of my projects are available at [https://prachita789.github.io/](https://prachita789.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://prachita789.github.io/](https://prachita789.github.io/) -->
 
 - 💬 Ask me about **Html CSS Javascript Java Mysql**
 
