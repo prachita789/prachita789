@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachita789" alt="prachita789" /></a> </p>
 
-- 🌱 I’m currently learning **Java MySQL**
+- 🌱 I’m currently learning **React, Python**
 
 <!-- - 👨‍💻 All of my projects are available at [https://prachita789.github.io/](https://prachita789.github.io/) -->
 
-- 💬 Ask me about **Html CSS Javascript Java Mysql**
+- 💬 Ask me about **Html, CSS, Javascript, React, MongoDB, Mysql**
 
 - 📫 How to reach me **prachitagajbhiye97@gmail.com**
 
